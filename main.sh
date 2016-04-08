@@ -1,2 +1,2 @@
-nano file.cpp
-g++ file.cpp -o file
+nano f.c
+g++ f.c -o f
